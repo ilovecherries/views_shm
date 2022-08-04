@@ -1,0 +1,4 @@
+{
+   "makefile.extensionOutputFolder": "./.vscode",
+   "rust-analyzer.cargo.buildScripts.overrideCommand": [ "$Env:CC=\"clang\"; cargo check --quiet --workspace --message-format=json --all-targets ." ]
+}

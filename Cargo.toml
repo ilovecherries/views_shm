@@ -1,0 +1,6 @@
+[workspace]
+members = [
+   "shmlib",
+   "shmlibtest",
+   "powder-game-1"
+]
