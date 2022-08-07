@@ -1,3 +1,6 @@
 [submodule "powder-game-1"]
 	path = powder-game-1
 	url = https://github.com/ilovecherries/powder-game-1.git
+[submodule "VieWS-Love2D"]
+	path = VieWS-Love2D
+	url = https://github.com/ilovecherries/VieWS-Love2D.git
